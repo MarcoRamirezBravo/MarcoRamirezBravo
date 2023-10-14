@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcoRamirezBravo
 - 👀 I’m interested in coding and development
-- 🌱 I want to lear Go!
-- 💞️ I’m looking to collaborate on any proyect
+- 🌱 I want to learn Go!
+- 💞️ I’m looking to collaborate on any project
 - 📫 my email is marcoramirezbravo@gmail.com
 
 <!---
